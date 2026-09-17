@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-17T00:00:00.000Z",
+  "lastActivityAt": 1758067200000,
+  "felizUntil": 0,
+  "tasks": [
+    {
+      "id": "ejemplo-1",
+      "title": "Revisar corte de color — EP03",
+      "project": "Serie documental",
+      "status": "pendiente",
+      "startedAt": 1758060000000,
+      "pendingSince": 1758063600000,
+      "failCount": 0,
+      "kind": "aprobacion"
+    }
+  ],
+  "lastMessage": {
+    "from": "claude",
+    "text": "Este es un estado de ejemplo para desarrollar el widget offline. Se reemplaza por datos reales una vez conectado el sync.",
+    "ts": 1758067200000
+  }
+}
